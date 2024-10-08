@@ -27,7 +27,9 @@ Each model is trained with specific configurations to optimize performance.
 
 ## Installation
 Clone this repository and install the required dependencies.
+
 `git clone https://github.com/Shubhm1shra/Object-Detection-and-Recognition-in-Satellite-Imagery.git`
+
 `cd Object-Detection-and-Recognition-in-Satellite-Imagery`
 ## Usage
 1. **Data Preparation :** Ensure that the dataset is correctly formatted and placed in the data/directory. Update any paths in the configuration files if necessary.
